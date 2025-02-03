@@ -1,4 +1,4 @@
-create or replace table customers
+create or replace table raw_customers
 (
 CustomerID number,
 CompanyName varchar,
